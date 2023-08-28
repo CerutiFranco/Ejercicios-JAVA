@@ -1,0 +1,2 @@
+module CadenaDeCaracteres2 {
+}
